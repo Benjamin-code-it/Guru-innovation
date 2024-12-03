@@ -6,7 +6,7 @@ const qrbtn = document.querySelector('.qrBtn')
 
 qrbtn.addEventListener('click', () => {
     const qrText = document.querySelector('.qrText').value
-    if(qrText == ''){
+    if(qrText.trim() == ''){
         alert('Please input a text')
         return
     }

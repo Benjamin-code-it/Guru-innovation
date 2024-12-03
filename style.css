@@ -7,7 +7,7 @@ body{
     display:block;
     justify-items:center;
     align-content:center;
-
+    margin-top: 25px;
 }
 .form{
     background-color: rgb(197, 177, 177);
@@ -58,6 +58,7 @@ button{
     width: 150px;
     height: 40px;
     background-color:darkslategray;
+    color: white;
     border-radius: 15px;
     border: 0;
     cursor: pointer;
