@@ -1,9 +1,9 @@
 body{
     padding:0;
     margin:0;
+    background-color: darkslategray;
 }
 .container{
-    background-color:darkslategray;
     display:block;
     justify-items:center;
     align-content:center;
